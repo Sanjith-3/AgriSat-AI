@@ -1,0 +1,6 @@
+streamlit==1.39.0
+rasterio==1.4.2
+earthpy==0.9.4
+numpy==1.26.4
+matplotlib==3.9.2
+groq==0.11.0
