@@ -188,7 +188,7 @@ These get plotted and sent to AI for advice. Explore them in the app!
 <details>
 <summary>Click to expand: How to Download Sentinel-2 Data for CropSense</summary>
 
-Not sure how to get the right satellite data? Here’s a step-by-step guide to download Sentinel-2 images from the Sentinel Hub EO Browser in the format CropSense needs. It’s easier than it sounds!
+Not sure how to get the right satellite data? Here’s a step-by-step guide to download Sentinel-2 images from the Copernicus Browser in the format CropSense needs. It’s easier than it sounds!
 
 ### Step-by-Step Download Process
 **Step 1: Open Copernicus Browser**
