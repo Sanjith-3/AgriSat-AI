@@ -18,7 +18,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-os.environ["GROQ_API_KEY"] = OS.getenv("GROQ_API_KEY")
+os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
 
 def load_bands_and_compute_indices(data_folder):
     """
