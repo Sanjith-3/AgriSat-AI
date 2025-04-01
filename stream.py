@@ -58,7 +58,7 @@ def load_bands_and_compute_indices(data_folder):
 
 def get_farmer_insights(analysis_summary):
     """Generate farming insights using Groq AI."""
-    client = Groq(api_key=os.getenv("GROQ_API_KEY")))
+    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
     prompt = f"""
 You are an agricultural expert helping farmers understand their field conditions based on satellite data.
 Please analyze this data and provide practical advice in simple, non-technical language. Additionally, give a detailed technical analysis.
